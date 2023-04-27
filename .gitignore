@@ -92,3 +92,5 @@ xcuserdata/
 ### Cargo
 /target
 /rust/guessing_game/target
+/rust/variables/target
+/rust/functions/target
