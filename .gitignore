@@ -95,3 +95,8 @@ xcuserdata/
 /rust/variables/target
 /rust/functions/target
 /rust/branches/target
+/rust/ownerships/target
+/rust/references/target
+/rust/slices/target
+/rust/structures/target
+/rust/methods/target
